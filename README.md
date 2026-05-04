@@ -63,12 +63,9 @@ ecommerce-data-pipeline/
 ├── data/
 │   ├── raw/                     # Landing zone — JSONL events land here
 │   └── processed/               # Output warehouse — CSV partitioned by date
-├── docker/
-│   └── Dockerfile
-├── dashboard.html               # Browser dashboard showing pipeline KPIs
-├── docker-compose.yml
 ├── requirements.txt
 └── README.md
+
 
  What the Pipeline Does
 1. Ingestion — Simulated Event Stream
