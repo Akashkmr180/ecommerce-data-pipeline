@@ -169,4 +169,4 @@ This pipeline maps directly to Azure services with minimal code changes:
 Local ComponentAzure EquivalentCode Changeevent_generator.pyAzure Event HubsConnection string onlykafka_simulator.pyAzure Event Hubs SDKImport swapspark_transform.pyAzure DatabricksOne path changedata/raw/ folderAzure Data Lake Storage Gen2One path changedata/processed/ folderAzure Data Lake Storage Gen2One path changeanalytics.pyAzure Synapse AnalyticsSame SQL queriesAirflow DAGAzure Data FactoryVisual pipeline configDocker containerAzure Container RegistryPush image
 
 * Contact
-Built by [Akash Kumar] | [LinkedIn URL] | [GitHub URL]
+Built by [Akash Kumar] |  | [github.com/Akashkmr180]
